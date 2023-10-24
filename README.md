@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently studying Informatics Engineering 
 - 🌱 I'm currently specialized in Cybersecurity
-- 📨 Feel free to reach me on [azureeen@pm.me (mailto:azureeen@pm.me)
+- 📨 Feel free to reach me on [azureeen@pm.me (mailto:azureeen@pm.me)]
 
 <details open>
   <summary><b>I have worked with</b> 👇</summary>
