@@ -1,9 +1,8 @@
-### Hey, I'm Arthur Trochon 👋
+### Hey, I'm Azureeen 👋
 
-- 🔭 I'm currently studying at ESAIP Angers
-- 🌱 I'm currently learning IT and Networks Engineering
-- 📫 Add me on : [LinkedIn](https://www.linkedin.com/in/trochon-arthur/)
-- 📨 Feel free to reach me on [trochon.arthur@protonmail.com (mailto:trochon.arthur@protonmail.com)
+- 🔭 I'm currently studying Informatics Engineering 
+- 🌱 I'm currently specialized in Cybersecurity
+- 📨 Feel free to reach me on [azureeen@pm.me (mailto:azureeen@pm.me)
 
 <details open>
   <summary><b>I have worked with</b> 👇</summary>
