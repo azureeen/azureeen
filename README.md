@@ -29,7 +29,7 @@
 <a href="https://tryhackme.com/p/Azureeen" target="blank"><img img align="center" src="https://user-images.githubusercontent.com/45005533/257011543-1a6292ab-165f-46e5-a675-2a1a6d3ea8a3.svg" alt="https://tryhackme.com/p/Azureeen" height="30" /></a>
 </p>
 
-<br/>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Latest blog posts
@@ -38,7 +38,6 @@
 - [Le Quidditch et la Cybersécurité : Jouer pour Protéger](https://azureeen.github.io/posts/quidditch-cyber/)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
