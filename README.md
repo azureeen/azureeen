@@ -9,30 +9,34 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
+- 🔐 I'm currently immersing myself in cryptography, **[my learnings](https://azureeen.netlify.app/categories/)**
+
 - 🌱 I’m currently learning **Cybersecurity engineering in [ESAIP School](https://www.esaip.org/formation/ingenieur-en-numerique/)**
 
-- 📝 I regularly write articles on [my blog](https://azureeen.netlify.app)
+- 📝 I regularly write articles on **[my blog](https://azureeen.netlify.app)**
 
 - 💬 Ask me about **Java, JavaScript and Frameworks**
 
 - 📫 How to reach me **azureeen.pm.me**
 
 - ⚡ Fun fact **Every devs are not nerds, I'm a Muay Thaï Fighter🥊**
-<br>
-
-### Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [La Cybersécurité dans l&#39;Espace : Protéger les Stations Spatiales des Cyberattaques](https://azureeen.github.io/posts/cybersecurite-et-espace/)
-- [Le Quidditch et la Cybersécurité : Jouer pour Protéger](https://azureeen.github.io/posts/quidditch-cyber/)
-<!-- BLOG-POST-LIST:END -->
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/634345690171965460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="634345690171965460" height="30" width="40" /></a>
 <a href="/http://127.0.0.1:4000/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://127.0.0.1:4000/feed.xml" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/Azureeen" target="blank"><img img align="center" src="https://img.shields.io/badge/tryhackme-%23212C42.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="https://tryhackme.com/p/Azureeen" height="30" /></a>
+<a href="https://tryhackme.com/p/Azureeen" target="blank"><img img align="center" src="https://user-images.githubusercontent.com/45005533/257011543-1a6292ab-165f-46e5-a675-2a1a6d3ea8a3.svg" alt="https://tryhackme.com/p/Azureeen" height="30" /></a>
 </p>
+
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+- [La Cybersécurité dans l&#39;Espace : Protéger les Stations Spatiales des Cyberattaques](https://azureeen.github.io/posts/cybersecurite-et-espace/)
+- [Le Quidditch et la Cybersécurité : Jouer pour Protéger](https://azureeen.github.io/posts/quidditch-cyber/)
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
