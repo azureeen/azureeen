@@ -1,62 +1,78 @@
-### Hey, I'm Azureeen 👋
+<h1 align="center">Hi 👋, I'm Azureeen</h1>
+<h3 align="center">Digital Traveler looking for new sensations</h3>
 
-- 🔭 I'm currently studying Informatics Engineering 
-- 🌱 I'm currently specialized in Cybersecurity
-- 📨 Feel free to reach me on azureeen@pm.me
+<p align="center">Why call myself a "Digital Traveler"? Simple. I embody a spirit of exploration and adventure, both in the digital realm and the physical world. A polyglot in the making, I speak French, English, and Spanish, reflecting my ambition to make a mark on the international stage. My goal? To become a renowned Cybersecurity Engineer, leaving digital footprints across continents.</p>
 
-<details open>
-  <summary><b>I have worked with</b> 👇</summary>
-  <br/>
-  <h3>Back : </h3>
-  <!-- <a href="https://nodejs.org/" target="_blank" title="NodeJS"><img src="icons/nodejs.png" alt="Node" width="45" height="45"/></a>
-  <a href="https://expressjs.com/" target="_blank" title="ExpressJS"><img src="icons/expressjs.jpg" alt="ExpressJS" width="45" height="45"/></a>
-  <a href="https://www.java.com/" target="_blank" title="Java"><img src="icons/java.png" alt="Java" width="45" height="45"/></a> -->
-  <a href="https://spring.io/" target="_blank" title="Spring"><img src="icons/spring.png" alt="Spring" width="45" height="45"/></a>
-  <a href="https://www.php.net/" target="_blank" title="PHP"><img src="icons/php.png" alt="PHP" width="45" height="45"/></a>
-  <!-- <a href="http://codeigniter.com/" target="_blank" title="CodeIgniter 3"><img src="icons/codeigniter.png" alt="CodeIgniter" width="45" height="45"/></a>-->
-  <a href="https://symfony.com/" target="_blank" title="Symfony"><img src="icons/symfony.png" alt="Symfony" width="45" height="45"/></a>
-  <a href="https://www.python.org/" target="_blank" title="Python"><img src="icons/python.png" alt="Python" width="45" height="45"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="icons/django.png" alt="Django" width="45" height="45"/></a>
-  <!--<a href="https://flask.palletsprojects.com/" target="_blank" title="Flask"><img src="icons/flask.png" alt="Flask" width="45" height="45"/></a>-->
-
-  <h3>Front : </h3>
-  <a href="https://vuejs.org/" target="_blank" title="VueJS"><img src="icons/vuejs.png" alt="VueJS" width="45" height="45"/></a>
-  <!--<a href="https://reactjs.org/" target="_blank" title="ReactJS"><img src="icons/react.png" alt="ReactJS" width="45" height="45"/></a>-->
-  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap"><img src="icons/bootstrap.png" alt="Bootstrap" width="45" height="45"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind"><img src="icons/tailwind.png" alt="Tailwind" width="45" height="45"/></a>
-  <!--<a href="https://www.thymeleaf.org/" target="_blank" title="Thymeleaf"><img src="icons/thymeleaf.png" alt="Thymeleaf" width="45" height="45"/></a>-->
-  <a href="https://twig.symfony.com/" target="_blank" title="Twig"><img src="icons/twig.png" alt="Twig" width="45" height="45"/></a>
-  <!--<a href="https://jinja.palletsprojects.com/" target="_blank" title="Jinja"><img src="icons/jinja.png" alt="Jinja" width="45" height="45"/></a>-->
-
-  <h3>Database : </h3>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="icons/mysql.png" alt="MySQL" width="45" height="45"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="icons/mongodb.png" alt="MongoDB" width="45" height="45"/></a>
-  <!--<a href="https://redis.io/" target="_blank" title="Redis"><img src="icons/redis.png" alt="Redis" width="45" height="45"/></a>-->
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgresSQL"><img src="icons/postgressql.svg" alt="PostgresSQL" width="45" height="45"/></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=azureeen&label=Profile%20views&color=0e75b6&style=flat" alt="azureeen" /> </p>
 
 
-  <!--<h3>Devops : </h3>
-  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="icons/git.png" alt="Git" width="45" height="45"/></a>
-  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="icons/docker.png" alt="Docker" width="45" height="45"/></a>
-  <a href="https://www.travis-ci.com/" target="_blank" title="Travis"><img src="icons/travis.png" alt="Travis CI" width="45" height="45"/></a>
-  <a href="https://sonarcloud.io/" target="_blank" title="SonarCloud"><img src="icons/sonarCloud.svg" alt="SonarCloud" width="45" height="45"/></a>-->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-  <h3>Environement : </h3>
-  <a href="https://www.jetbrains.com/" target="_blank" title="JetBrains"><img src="icons/jetbrains.png" alt="JetBrains" width="45" height="45"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="icons/vscode.png" alt="VS Code" width="45" height="45"/></a>
-  <br/>
-  <br/>
-</details>
+- 🌱 I’m currently learning **Cybersecurity engineering in [ESAIP School](https://www.esaip.org/formation/ingenieur-en-numerique/)**
 
-<!-- <details open>
-  <summary><b>Statistics</b> 📈</summary>
-  <div align="left">
-  <a href="https://github.com/PierrePocheron">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PierrePocheron&theme=tokyonight&show_icons=true&hide_border=false" alt="Pierre's github stats" />
+- 📝 I regularly write articles on [my blog](https://azureeen.netlify.app)
+
+- 💬 Ask me about **Java, JavaScript and Frameworks**
+
+- 📫 How to reach me **azureeen.pm.me**
+
+- ⚡ Fun fact **Every devs are not nerds, I'm a Muay Thaï Fighter🥊**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/634345690171965460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="634345690171965460" height="30" width="40" /></a>
+<a href="/http://127.0.0.1:4000/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://127.0.0.1:4000/feed.xml" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/Azureeen" target="blank"><img img align="center" src="https://img.shields.io/badge/tryhackme-%23212C42.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="https://tryhackme.com/p/Azureeen" height="30" /></a>
+</p>
+
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,java,spring,nodejs,py,django" />
   </a>
-  <a href="https://github.com/PierrePocheron">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PierrePocheron&theme=tokyonight&layout=compact&hide_border=false" alt="Top Langs" />
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,vue,tailwind,bootstrap,sass" />
   </a>
-  <br/>
-  </div>
-</details> -->
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,cassandra" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,firebase" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux,androidstudio,matlab" />
+  </a>
+</p>
+
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azureeen&show_icons=true&locale=en&layout=compact" alt="azureeen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azureeen&show_icons=true&locale=en" alt="azureeen" /></p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
