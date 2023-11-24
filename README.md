@@ -18,6 +18,13 @@
 - 📫 How to reach me **azureeen.pm.me**
 
 - ⚡ Fun fact **Every devs are not nerds, I'm a Muay Thaï Fighter🥊**
+<br>
+
+### Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+- [La Cybersécurité dans l&#39;Espace : Protéger les Stations Spatiales des Cyberattaques](https://azureeen.github.io/posts/cybersecurite-et-espace/)
+- [Le Quidditch et la Cybersécurité : Jouer pour Protéger](https://azureeen.github.io/posts/quidditch-cyber/)
+<!-- BLOG-POST-LIST:END -->
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -70,11 +77,3 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azureeen&show_icons=true&locale=en&layout=compact" alt="azureeen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azureeen&show_icons=true&locale=en" alt="azureeen" /></p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [La Cybersécurité dans l&#39;Espace : Protéger les Stations Spatiales des Cyberattaques](https://azureeen.github.io/posts/cybersecurite-et-espace/)
-- [Le Quidditch et la Cybersécurité : Jouer pour Protéger](https://azureeen.github.io/posts/quidditch-cyber/)
-<!-- BLOG-POST-LIST:END -->
