@@ -34,8 +34,8 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [La Cybersécurité dans l&#39;Espace : Protéger les Stations Spatiales des Cyberattaques](https://azureeen.github.io/posts/cybersecurite-et-espace/)
-- [Le Quidditch et la Cybersécurité : Jouer pour Protéger](https://azureeen.github.io/posts/quidditch-cyber/)
+- [Cybersecurity in Space: Protecting Space Stations from Cyberattacks](https://azureeen.github.io/posts/cybersecurite-et-espace/)
+- [Quidditch and Cybersecurity: Playing to Protect](https://azureeen.github.io/posts/quidditch-cyber/)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
