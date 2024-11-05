@@ -1,25 +1,9 @@
 <h1 align="center">Hi 👋, I'm Azureeen</h1>
-<h3 align="center">Digital Traveler looking for new sensations</h3>
-
-<p align="center">Why call myself a "Digital Traveler"? Simple. I embody a spirit of exploration and adventure, both in the digital realm and the physical world. A polyglot in the making, I speak French, English, and Spanish, reflecting my ambition to make a mark on the international stage. My goal? To become a renowned Cybersecurity Engineer, leaving digital footprints across continents.</p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azureeen&label=Profile%20views&color=0e75b6&style=flat" alt="azureeen" /> </p>
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-
-- 🔐 I'm currently immersing myself into cryptography, **[my learnings](https://azureeen.netlify.app/categories/)**
-
-- 🌱 I’m currently learning **Cybersecurity engineering in [ESAIP School](https://www.esaip.org/formation/ingenieur-en-numerique/)**
-
-- 📝 I regularly write articles on **[my blog](https://azureeen.netlify.app)**
-
-- 💬 Ask me about **Java, JavaScript and Frameworks**
-
-- 📫 How to reach me **azureeen.pm.me**
-
-- ⚡ Fun fact **Every devs are not nerds, I'm a Muay Thaï Fighter🥊**
 
 <br>
 <h3 align="left">Connect with me:</h3>
